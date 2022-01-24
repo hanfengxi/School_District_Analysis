@@ -134,7 +134,8 @@ However, as mentioned above, if we are to include the number of students from Th
 
 
 ### How does replacing the ninth-grade scores affect the following:
-#### Math and reading scores by grade
+
+### Math and reading scores by grade
 
 The new data would simply replace Thomas High School-9th graders' reading and math scores to NaN, which represents a null value.
 
@@ -155,7 +156,7 @@ The new data would simply replace Thomas High School-9th graders' reading and ma
 ![This is an image](supporting_images/reading_by_grade_new.png)
 
 
-#### Scores by school spending
+### Scores by school spending
 
 Thomas High School falls into the $630-644 spending ranges (per student), and therefore replacing the ninth-grade scores from the school would only have an impact on values within this spending range. However the impact are found to be very minimal which only changed by roughly 0.1% or less. 
 
@@ -177,7 +178,7 @@ If we round the end summary results to whole number, it shows no changes at all.
 
 ![This is an image](supporting_images/spending_summary_new.png)
 
-#### Scores by school size
+### Scores by school size
 
 Thomas High School falls into the medium school size range, and therefore replacing the ninth-grade scores from the school would only have an impact on values within this size range. Similar to spending summary, the impacts are found to be very minimal and only changed the end values by roughly 0.1% or less. 
 
@@ -201,7 +202,7 @@ Liekly, if we round the end summary results to whole number, it shows no changes
 
 
 
-#### Scores by school type
+### Scores by school type
 
 Thomas High School is a chartered school and would only impact values that are under the chartered school types. Again, the impacts are found to be very minimal that only affected the end values by less than 0.1%.
 
@@ -256,7 +257,6 @@ In summary, below are the changes in the updated school district analysis after 
 
 6. Scores by School Size 
 - very minimal changes on score values. There is no change if round up the values to a whole number
-
 
 7. Scores by School Type
 - very minimal changes on score values. There is no change if round up the values to a whole number
